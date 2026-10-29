@@ -1,0 +1,9 @@
+/build/
+/.cache/
+.vscode/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.o
+.DS_Store
